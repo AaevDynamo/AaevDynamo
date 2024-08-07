@@ -1,5 +1,5 @@
-- 👋 <h1> my name is AASTHA SHUKLA<h1>
-- 😄 Pronouns: ...
+- 👋 <h1> My name is AASTHA SHUKLA<h1>
+- 😄 <b> this is my GitHub account</>
 - ⚡ Fun fact: ...
 
 <!---
